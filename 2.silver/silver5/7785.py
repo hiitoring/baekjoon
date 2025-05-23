@@ -6,4 +6,7 @@ for i in range(n):
         nameli.add(name)
     elif status == "leave":
         nameli.remove(name)
-print(nameli)
+namelili = list(nameli)
+namelili.sort(reverse=True)
+for i in namelili:
+    print(i)
