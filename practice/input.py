@@ -1,9 +1,2 @@
-n = int(input())
-nameli = set()
-for i in range(n):
-    name, status = input().split()
-    if status == "enter":
-        nameli.add(name)
-    elif status == "leave":
-        nameli.remove(name)
-print(nameli)
+absnumli = [2,3]
+print(min(absnumli))
