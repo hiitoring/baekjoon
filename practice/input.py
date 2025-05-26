@@ -1,2 +1,3 @@
-aa = [1,2,3,4]
-print(aa)
+from collections import deque
+deck = deque()
+print(deck)
