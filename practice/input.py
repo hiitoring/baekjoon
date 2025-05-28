@@ -1,3 +1,4 @@
 from collections import deque
-deck = deque()
-print(deck)
+maze = [[1,2],[1,2]]
+maze[1][1] = maze[1][1] + 1
+print(maze[1][1])
