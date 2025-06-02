@@ -1,6 +1,8 @@
-<h1>Update in 2025-05-29 | Rank : Silver V</h1>
+<h1>Update in 2025-06-02 | Rank : Silver IV</h1>
 <hr>
 <p>First commit : 2025-05-21</p>
+<p>2025-06-02 : 11659, 2559 (learnd : prefix sum, sliding window)</p>
+<p>2025-05-30 : 15649, 15650, 15651, 15652 (learnd : Backtracking)</p>
 <p>2025-05-29 : 2667 (1260,2178,1012 복습)</p>
 <p>2025-05-28 : 1260, 2178, 1012 (learnd: BFS, DFS)</p>
 <p>2025-05-26 : 9012, 18258, 10828, 10845, 2164, 5430 (learnd : stack, queue, deque)</p>
