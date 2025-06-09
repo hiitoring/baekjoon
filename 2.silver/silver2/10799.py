@@ -1,6 +1,6 @@
 iron = list(input())
 n = 0 # 쇠막대기의 개수
-answer = 0 # 최종 쇠막대기의 개수수
+answer = 0 # 최종 쇠막대기의 개수
 while len(iron) > 0: # 괄호 리스트가 없어질 때까지 pop
         if iron.pop() == ")": 
             if iron[-1] == "(": # ()으로 생긴 배열이라면 레이저로 인식
