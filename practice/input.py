@@ -1,3 +1,3 @@
 nums = [1,2,3]
-print(nums[0:2])
-print(nums)
+for i in range(3,-1,-1):
+    print(i)
