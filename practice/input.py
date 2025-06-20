@@ -1,4 +1,2 @@
-i=20
-for i in range(i,5,-1):
+for i in range(5,1,-1):
     print(i)
-    i -= 3
