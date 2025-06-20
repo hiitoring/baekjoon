@@ -1,4 +1,4 @@
-a, b, c, d = list(input().split())
-A = int(a+b)
-B = int(c+d)
-print(A+B)
+i=20
+for i in range(i,5,-1):
+    print(i)
+    i -= 3
