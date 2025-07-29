@@ -12,4 +12,4 @@ for i in range(n-1):
             support[j] = answer[j-1] + answer[j+1]
     for k in range(10):
         answer[k] = support[k]
-print(sum(answer))
+print(sum(answer)%1000000000)
